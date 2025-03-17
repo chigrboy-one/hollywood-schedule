@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hollywood-schedule/static/css/main.ec7c5d74.css",
-    "main.js": "/hollywood-schedule/static/js/main.ed02b2bb.js",
-    "static/js/453.91ede9f0.chunk.js": "/hollywood-schedule/static/js/453.91ede9f0.chunk.js",
-    "index.html": "/hollywood-schedule/index.html",
-    "main.ec7c5d74.css.map": "/hollywood-schedule/static/css/main.ec7c5d74.css.map",
-    "main.ed02b2bb.js.map": "/hollywood-schedule/static/js/main.ed02b2bb.js.map",
-    "453.91ede9f0.chunk.js.map": "/hollywood-schedule/static/js/453.91ede9f0.chunk.js.map"
+    "main.css": "https://chigrboy-one.github.io/hollywood-schedule/static/css/main.ec7c5d74.css",
+    "main.js": "https://chigrboy-one.github.io/hollywood-schedule/static/js/main.a9f69705.js",
+    "static/js/453.91ede9f0.chunk.js": "https://chigrboy-one.github.io/hollywood-schedule/static/js/453.91ede9f0.chunk.js",
+    "index.html": "https://chigrboy-one.github.io/hollywood-schedule/index.html",
+    "main.ec7c5d74.css.map": "https://chigrboy-one.github.io/hollywood-schedule/static/css/main.ec7c5d74.css.map",
+    "main.a9f69705.js.map": "https://chigrboy-one.github.io/hollywood-schedule/static/js/main.a9f69705.js.map",
+    "453.91ede9f0.chunk.js.map": "https://chigrboy-one.github.io/hollywood-schedule/static/js/453.91ede9f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec7c5d74.css",
-    "static/js/main.ed02b2bb.js"
+    "static/js/main.a9f69705.js"
   ]
 }
