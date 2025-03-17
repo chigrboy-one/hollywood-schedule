@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chigrboy-one/hollywood-schedule/static/css/main.e32a8302.css",
+    "main.js": "/chigrboy-one/hollywood-schedule/static/js/main.23870e2b.js",
+    "static/js/453.91ede9f0.chunk.js": "/chigrboy-one/hollywood-schedule/static/js/453.91ede9f0.chunk.js",
+    "index.html": "/chigrboy-one/hollywood-schedule/index.html",
+    "main.e32a8302.css.map": "/chigrboy-one/hollywood-schedule/static/css/main.e32a8302.css.map",
+    "main.23870e2b.js.map": "/chigrboy-one/hollywood-schedule/static/js/main.23870e2b.js.map",
+    "453.91ede9f0.chunk.js.map": "/chigrboy-one/hollywood-schedule/static/js/453.91ede9f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e32a8302.css",
+    "static/js/main.23870e2b.js"
+  ]
+}
